@@ -1,0 +1,2 @@
+- name: restart inadyn
+  command: svc -t {{inadyn_svc_dir}}

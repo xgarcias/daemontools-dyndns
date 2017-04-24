@@ -1,0 +1,6 @@
+---
+inadyn_svc_dir: "{{svscan_dir}}/inadyn"
+inadyn_update_period: "600"
+inadyn_username: "jdoe"
+inadyn_password: "my_password"
+inadyn_domain: "jdoe.dyndns-web.com"
